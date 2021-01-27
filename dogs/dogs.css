@@ -1,0 +1,164 @@
+.sidebar {
+    background-color: #535970;
+    width: 198px;
+    height: 400px;
+
+}
+.side-head{
+ display: flex;   
+}
+.body {
+    width: 40%;
+    height: 388px;
+
+}
+
+.content {
+    padding: 10px 40px 5px 40px;
+    background-color: #f8edec;
+    width: 90%;
+    height: 340px;
+    /* display: flex; */
+    /* justify-content:space-evenly; */
+
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.row {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.col {
+    width: 34%;
+    font-size: 15px;
+    color: gray;
+    margin-top: 10px;
+    
+}
+
+.col-2 {
+    font-size: 15px;
+    color: gray;
+    margin-top: 10px;
+    width: 90%;
+}
+
+.fotter {
+    width: 96%;
+    padding: 10px 40px 10px 10px;
+    background-color: rgb(243, 247, 246);
+}
+
+.butons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    padding: 10px;
+    color: lightcyan
+}
+.para {
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    font-size: x-large;
+    color: #535970;
+}
+
+.empty {
+    background-color: whitesmoke;
+    width: 40px;
+    height: 20px;
+}
+
+.box-size {
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+input::placeholder {
+    font-size: 13px;
+    color: grey;
+}
+.space-class {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    border-radius: 2px;
+    padding: 3px;
+    margin-top: 5px;
+
+}
+
+.gender {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    height: 20px;
+    border-radius: 2px;
+    padding: 2px;
+    margin-top: 5px;
+}
+
+.last-length {
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    border-radius: 2px;
+    padding: 3px;
+    margin-top: 5px;
+    width: 430px;
+}
+    .heading {
+    padding: 20px 0px 20px 0px;
+    margin-left: 80px;
+}
+
+.back {
+    border-radius: 30px;
+    padding: 2px 20px 2px 20px;
+    margin-left: 40px;
+}
+
+.next {
+    background-color: #717277;
+    border-radius: 30px;
+    padding: 2px 20px 2px 20px;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-top: 25px;
+    color: whitesmoke;
+}h2{
+    font-size: 15px;
+    font-family: serif;
+    margin-left:40px;
+    margin-top: 130px;
+    color:whitesmoke
+}.input-name{
+    margin-left: 3px;
+}.radio-button{
+    padding: 8px;
+    list-style-type: none;
+    color: white;
+
+}
